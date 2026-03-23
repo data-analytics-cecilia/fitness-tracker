@@ -85,9 +85,6 @@ with colA:
         plt.legend()
         plt.tight_layout()
         st.pyplot(fig)
-
-
-
 with colB:
     with st.container(border=True):
         st.subheader("Distribuție puls mediu")
