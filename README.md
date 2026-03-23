@@ -8,7 +8,7 @@ Proiectul permite urmărirea indicatorilor importanți precum:
 - puls
 - timp activ
 - somn și recuperare
-- 
+  
 Scopul este de a oferi o imagine clară asupra stării de sănătate și a progresului utilizatorului.
 ## 🚀 Funcționalități principale
 
