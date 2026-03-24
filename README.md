@@ -1,32 +1,33 @@
- Fitness Tracker – Monitorizare a fitnessului
- Descriere:
-Această aplicație este un dashboard interactiv de monitorizare a sănătății și activității fizice, construit folosind  Python și Streamlit .
+Fitness Tracker – Health & Fitness Monitoring Dashboard
+Description:
 
-Proiectul permite urmărirea indicatorilor importanți precum:
-- pași zilnici
-- calorii consumate și arse
-- puls
-- timp activ
-- somn și recuperare
-  
-Scopul este de a oferi o imagine clară asupra stării de sănătate și a progresului utilizatorului.
- Funcționalități principale
+This application is an interactive dashboard designed to monitor health and physical activity, built using Python and Streamlit.
 
--  Dashboard interactiv (KPI-uri)
--  Monitorizare activitate fizică (pași, distanță)
--  Analiză alimentație și calorii
--  Tracking somn și recuperare
--  Monitorizare puls și efort
--  Calcul indicator „Health Index”
--  Filtre dinamice (utilizator, perioadă)
--  Simulare evenimente (ex: „Storm Mode”)
+The project enables tracking of key metrics such as:
 
- Tehnologii utilizate
+-daily steps
+-calories consumed and burned
+-heart rate
+-active time
+-sleep and recovery
 
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- SQLite (persistență date)
+The goal is to provide a clear and comprehensive overview of the user’s health status and progress.
+
+Key Features:
+-Interactive dashboard (KPIs)
+-Physical activity tracking (steps, distance)
+-Nutrition and calorie analysis
+-Sleep and recovery monitoring
+-Heart rate and effort tracking
+-Health Index calculation
+-Dynamic filters (user, date range)
+-Event simulation (e.g., “Storm Mode”)
+
+Technologies:
+-Python
+-Streamlit
+-Pandas
+-NumPy
+-Matplotlib / Seaborn
+-SQLite (data persistence)
 
