@@ -30,13 +30,3 @@ Scopul este de a oferi o imagine clară asupra stării de sănătate și a progr
 - Matplotlib / Seaborn
 - SQLite (persistență date)
 
- Structura proiectului
-fitness_tracker
-
-─ app.py                 -> aplicația principală
-─ requirements.txt       -> dependințe
-─ app_utils/             -> logică aplicație (state, metrics, db)
-─ Pagini/                -> pagini Streamlit
-─ db/                    -> bază de date SQLite
-─ Date/                  -> datele aplicației
-─ README.md
