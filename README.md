@@ -1,6 +1,6 @@
-# 🏋️ Fitness Tracker – Monitorizare a fitnessului
-## 📌 Descriere
-Această aplicație este un **dashboard interactiv de monitorizare a sănătății și activității fizice**, construit folosind **Python și Streamlit**.
+ Fitness Tracker – Monitorizare a fitnessului
+ Descriere:
+Această aplicație este un dashboard interactiv de monitorizare a sănătății și activității fizice, construit folosind  Python și Streamlit .
 
 Proiectul permite urmărirea indicatorilor importanți precum:
 - pași zilnici
@@ -10,18 +10,18 @@ Proiectul permite urmărirea indicatorilor importanți precum:
 - somn și recuperare
   
 Scopul este de a oferi o imagine clară asupra stării de sănătate și a progresului utilizatorului.
-## 🚀 Funcționalități principale
+ Funcționalități principale
 
-- ✅ Dashboard interactiv (KPI-uri)
-- ✅ Monitorizare activitate fizică (pași, distanță)
-- ✅ Analiză alimentație și calorii
-- ✅ Tracking somn și recuperare
-- ✅ Monitorizare puls și efort
-- ✅ Calcul indicator „Health Index”
-- ✅ Filtre dinamice (utilizator, perioadă)
-- ✅ Simulare evenimente (ex: „Storm Mode”)
+-  Dashboard interactiv (KPI-uri)
+-  Monitorizare activitate fizică (pași, distanță)
+-  Analiză alimentație și calorii
+-  Tracking somn și recuperare
+-  Monitorizare puls și efort
+-  Calcul indicator „Health Index”
+-  Filtre dinamice (utilizator, perioadă)
+-  Simulare evenimente (ex: „Storm Mode”)
 
-## 📊 Tehnologii utilizate
+ Tehnologii utilizate
 
 - Python
 - Streamlit
@@ -30,14 +30,13 @@ Scopul este de a oferi o imagine clară asupra stării de sănătate și a progr
 - Matplotlib / Seaborn
 - SQLite (persistență date)
 
-## 📁 Structura proiectului
+ Structura proiectului
 fitness_tracker
 
-│
-├── app.py                 # aplicația principală
-├── requirements.txt       # dependințe
-├── app_utils/             # logică aplicație (state, metrics, db)
-├── Pagini/                # pagini Streamlit
-├── db/                    # bază de date SQLite
-├── Date/                  # datele aplicației
-└── README.md
+─ app.py                 -> aplicația principală
+─ requirements.txt       -> dependințe
+─ app_utils/             -> logică aplicație (state, metrics, db)
+─ Pagini/                -> pagini Streamlit
+─ db/                    -> bază de date SQLite
+─ Date/                  -> datele aplicației
+─ README.md
